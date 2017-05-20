@@ -1,0 +1,18 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Analog clock\Analog clock\bin\Debug\Analog clock.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Analog clock\Analog clock\bin\Debug\Analog clock.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Analog clock\Analog clock\bin\Debug\Analog clock.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Analog clock\Analog clock\obj\Debug\Analog clock.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Analog clock\Analog clock\obj\Debug\Analog_clock.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Analog clock\Analog clock\obj\Debug\Analog_clock.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Analog clock\Analog clock\obj\Debug\Analog clock.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Analog clock\Analog clock\obj\Debug\Analog clock.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Analog clock\Analog clock\obj\Debug\Analog clock.pdb
+C:\Users\LENOVO\Desktop\Analog clock\Analog clock\bin\Debug\Analog clock.exe.config
+C:\Users\LENOVO\Desktop\Analog clock\Analog clock\obj\Debug\Analog clock.exe
+C:\Users\LENOVO\Desktop\Analog clock\Analog clock\obj\Debug\Analog clock.pdb
+C:\Users\LENOVO\Desktop\Analog clock\Analog clock\bin\Debug\Analog clock.exe
+C:\Users\LENOVO\Desktop\Analog clock\Analog clock\bin\Debug\Analog clock.pdb
+C:\Users\LENOVO\Desktop\Analog clock\Analog clock\obj\Debug\Analog clock.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Analog clock\Analog clock\obj\Debug\Analog_clock.Form1.resources
+C:\Users\LENOVO\Desktop\Analog clock\Analog clock\obj\Debug\Analog_clock.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Analog clock\Analog clock\obj\Debug\Analog clock.csproj.GenerateResource.Cache
